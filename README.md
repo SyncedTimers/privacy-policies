@@ -11,13 +11,13 @@ Welcome to the official support repository for **SyncedTimers** — the simple, 
 
 ## 🔒 Privacy Policies
 - [📄 iOS Privacy Policy (PDF)](https://syncedtimers.github.io/privacy-policies/SyncedTimers%20Privacy%20Policy%20iOS.pdf)
-- [📄 Android Privacy Policy (Google Docs)](https://docs.google.com/document/your-doc-id-here)
+- [📄 Android Privacy Policy (PDF)](https://syncedtimers.github.io/privacy-policies/SyncedTimers%20Privacy%20Policy%20Android.pdf)
 
 ---
 
 ## 📝 Submit Feedback
-We’re always looking to improve.  
-📣 Share your thoughts: [Feedback Form](https://your-google-form-link)
+We’d love to hear how your experience was — especially while cooking!  
+📣 [SyncedTimers Tester Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSd5IREC2A5bUYP1_UCwRuhE2q8_pu7X0vsS_ceCcRB1B1UEfQ/viewform?usp=sharing&ouid=109575487237025407997)
 
 ---
 
